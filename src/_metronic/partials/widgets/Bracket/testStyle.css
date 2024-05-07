@@ -1,0 +1,18 @@
+.tournament-bracket {
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    overflow: auto;
+  }
+  
+  .round {
+    flex: 1;
+    border-left: 1px solid #ddd;
+    padding-left: 20px;
+  }
+  
+  .match {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 10px 0;
+  }

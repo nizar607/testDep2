@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'ClockFont';
+  src:
+    url('../../../../../public/fonts/DIGITALDREAMFATSKEWNARROW.ttf') format('truetype');
+}
+
+.clock {
+  font-family: 'ClockFont', sans-serif;
+}
+
+@media (min-width: 576px) {
+
+  /* Bootstrap's sm breakpoint */
+  .big-screen-bg {
+    background-color: rgba(63, 63, 63, 0.695);
+    background-size: "cover";
+    height: "fit-content";
+    position: "relative";
+  }
+}
