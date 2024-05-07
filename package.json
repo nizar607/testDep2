@@ -19,7 +19,6 @@
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@g-loot/react-tournament-brackets": "^1.0.31-rc",
-    "@material-ui/core": "^4.12.4",
     "@mui/material": "^5.15.14",
     "@mui/styled-engine": "^5.15.14",
     "axios": "^1.6.8",
@@ -49,3 +48,4 @@
     "vite": "^5.1.4"
   }
 }
+
