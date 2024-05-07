@@ -54,3 +54,4 @@ Thumbs.db
 
 # Performance and testing
 /coverage
+.vercel
